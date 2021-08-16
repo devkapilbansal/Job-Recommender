@@ -1,0 +1,17 @@
+ERRORS IN CHATTRA VISHWAKARMA AWARD(CORRECTION NEEDED)
+1.Need to improve the quality of Database-Some oriented jobs
+2.A powerful web scrapper is required-Need to parse web sites with relevant information--Need to work on Pagination--AJAX calls
+3.Implement session scope to include effective Login/Logout
+4.Using encrypted Password technique
+5.Removing back-slash error in Flask
+6.Implement Responsive design
+7.Generating a powerful recommender
+8.Giving user options of various skills adding too-Like in LinkedIn and giving the same option to recruiter too
+9.Adding required videos in app
+9.Translation of App in Native Languages
+10.Sending whole project to GITHUB
+11.Validating all web pages
+12.Working on GUI
+13.Making whole website available offline
+14.Removing Portability Issues
+15.Making different posters for the Workflow
